@@ -26,3 +26,7 @@ A RESTful backend service for managing financial records with role-based access 
 
 ## How to Run
 Clone the repository and run:
+
+
+Swagger available locally at:
+http://localhost:8080/swagger-ui/index.html
